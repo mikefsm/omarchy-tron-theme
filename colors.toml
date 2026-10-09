@@ -1,0 +1,32 @@
+# Tron (1982) — the Grid: black void, cyan light, orange for the MCP's programs
+mode = "dark"
+
+accent = "#00e5ff"
+selection = "#08394d"
+muted = "#2a4a5a"
+
+background = "#02060c"
+dark_background = "#010307"
+darker_background = "#000000"
+lighter_background = "#0b1622"
+
+foreground = "#c8f4ff"
+dark_foreground = "#3d6b80"
+light_foreground = "#9fe8ff"
+bright_foreground = "#eaffff"
+
+red = "#ff3b2f"
+yellow = "#ffd23f"
+orange = "#ff8c1a"
+green = "#4dffb8"
+cyan = "#00e5ff"
+blue = "#1f8fff"
+magenta = "#c86bff"
+brown = "#7a4a1a"
+
+bright_red = "#ff6b5f"
+bright_yellow = "#ffe27a"
+bright_green = "#8affd0"
+bright_cyan = "#7ff2ff"
+bright_blue = "#6bb5ff"
+bright_magenta = "#dda0ff"
